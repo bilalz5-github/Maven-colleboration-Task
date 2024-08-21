@@ -1,5 +1,4 @@
-###Maven Collaboration: Basic Java Servlet###
-
+## Maven Collaboration task: Basic Java Servlet ##
 **Description:**
 This project demonstrates a basic Java Servlet using Maven for build management. The servlet handles HTTP requests and generates dynamic responses, serving as an introductory example for Java web development.
 
